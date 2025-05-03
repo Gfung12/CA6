@@ -1,0 +1,15 @@
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\bin\Debug\net8.0\CA6.exe
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\bin\Debug\net8.0\CA6.deps.json
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\bin\Debug\net8.0\CA6.runtimeconfig.json
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\bin\Debug\net8.0\CA6.dll
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\bin\Debug\net8.0\CA6.pdb
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\obj\Debug\net8.0\CA6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\obj\Debug\net8.0\CA6.AssemblyInfoInputs.cache
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\obj\Debug\net8.0\CA6.AssemblyInfo.cs
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\obj\Debug\net8.0\CA6.csproj.CoreCompileInputs.cache
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\obj\Debug\net8.0\CA6.sourcelink.json
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\obj\Debug\net8.0\CA6.dll
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\obj\Debug\net8.0\refint\CA6.dll
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\obj\Debug\net8.0\CA6.pdb
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\obj\Debug\net8.0\CA6.genruntimeconfig.cache
+C:\Users\GokFu\OneDrive\Desktop\CA6\CA6\CA6\CA6\obj\Debug\net8.0\ref\CA6.dll

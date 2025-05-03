@@ -11,13 +11,14 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CA6")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PruebasUnitarias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4807a7817288e326dd761251207aba10c663e426")]
-[assembly: System.Reflection.AssemblyProductAttribute("CA6")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CA6")]
+[assembly: System.Reflection.AssemblyProductAttribute("PruebasUnitarias")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PruebasUnitarias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadata("MSTest.Extension.Uid", "MSTest.Sdk")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 
