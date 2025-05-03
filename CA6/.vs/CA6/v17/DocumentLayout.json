@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GokFu\\OneDrive\\Desktop\\CA6\\CA6\\CA6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCEDBD4-386B-4D93-836C-100B629146E4}|CA6\\CA6.csproj|c:\\users\\gokfu\\onedrive\\desktop\\ca6\\ca6\\ca6\\ca6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCEDBD4-386B-4D93-836C-100B629146E4}|CA6\\CA6.csproj|solutionrelative:ca6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GokFu\\OneDrive\\Desktop\\CA6\\CA6\\CA6\\CA6\\Program.cs",
+              "RelativeDocumentMoniker": "CA6\\Program.cs",
+              "ToolTip": "C:\\Users\\GokFu\\OneDrive\\Desktop\\CA6\\CA6\\CA6\\CA6\\Program.cs",
+              "RelativeToolTip": "CA6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:34:27.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
